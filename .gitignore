@@ -1,0 +1,13 @@
+text 
+.venv/
+__pycache__/
+*.pyc
+
+*.pt
+
+output.jpg
+runs/
+
+.vscode/
+.DS_Store
+Thumbs.db
